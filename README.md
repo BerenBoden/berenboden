@@ -4,7 +4,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="berenboden.com" width="22px" src="https://berenboden.com" />][]
 [<img align="left" alt="Beren Boden | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][]
 [<img align="left" alt="Beren Boden | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][]
 [<img align="left" alt="Beren Boden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
