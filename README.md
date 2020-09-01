@@ -1,6 +1,6 @@
 ### Currently working towards a career in Web Development & enjoy Cyber Security as a hobby. 
 
-- 🔭 I’m currently working on my Comptia Linux+ exam.
+- 🔭 I’m currently working on my Comptia Network+ exam.
 
 ### Connect with me:
 
