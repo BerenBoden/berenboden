@@ -1,4 +1,4 @@
-### Currently working towards a career in Cyber Security & enjoy Web Development as a hobby. 👋
+### Currently working towards a career in Web Development & enjoy Cyber Security as a hobby. 
 
 - 🔭 I’m currently working on my Comptia Linux+ exam.
 
