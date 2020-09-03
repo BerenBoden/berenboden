@@ -31,6 +31,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
+<img align="left" alt="HTML5" width="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1593769247/tailwind-css-logo.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://material-ui.com/static/logo.png" />
+<img align="left" alt="HTML5" width="26px" src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" />
 
 <br />
 <br />
