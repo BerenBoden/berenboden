@@ -34,7 +34,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1593769247/tailwind-css-logo.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://material-ui.com/static/logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/175px-Gulp.js_Logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" height="26px" src="https://logos-download.com/wp-content/uploads/2018/05/Gulp_logo_cube-700x700.png" />
 
 <br />
