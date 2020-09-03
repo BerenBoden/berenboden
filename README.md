@@ -24,12 +24,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />
-<img align="left" alt="Adobe AfterEffects" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />
-<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.photoshop.com/static/images/apps/photoshop.png" />
+<img align="left" alt="Adobe AfterEffects" width="26px" src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" />
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" />
 
 <br />
 <br />
