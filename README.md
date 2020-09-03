@@ -1,6 +1,6 @@
 ### Currently working towards a career in Web Development & enjoy Cyber Security as a hobby. 
 
-- Currently working on my Comptia Network+ exam.
+- Also working on my Comptia Network+ exam.
 
 ### Connect with me:
 
