@@ -28,8 +28,8 @@
 <img align="left" alt="Adobe AfterEffects" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" />
 
 <br />
 <br />
