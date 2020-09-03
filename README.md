@@ -37,7 +37,7 @@
 <img align="left" alt="Gulp" width="26px" height="26px" src="https://logos-download.com/wp-content/uploads/2018/05/Gulp_logo_cube-700x700.png" />
 <br />
 
-<img align="left" alt="Firebase" width="26px" height="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
+<img align="left" alt="Firebase" width="26px" height="26px" src="https://pngimage.net/wp-content/uploads/2018/06/firebase-logo-png-2.png" />
 <img align="left" alt="Firebase" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" />
 <img align="left" alt="Firebase" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
 <img align="left" alt="Firebase" width="26px" height="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/358/full/eslintlogo.png" />
